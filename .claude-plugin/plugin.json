@@ -1,0 +1,9 @@
+{
+  "name": "differential-review",
+  "version": "1.1.2",
+  "description": "Security-focused differential review of code changes with git history analysis and blast radius estimation",
+  "author": {
+    "name": "jojocorse2b",
+    "url": "https://github.com/jojocorse2b"
+  }
+}
